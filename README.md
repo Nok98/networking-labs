@@ -8,8 +8,6 @@ This is my first network in Cisco Packet Tracer. It consists of:
 - 2 Laptops
 - 1 PC
 
-Snímka obrazovky 2025-03-16 155551.png
-
 
 
 
