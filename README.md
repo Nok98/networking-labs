@@ -15,7 +15,7 @@ This project demonstrates a simple network setup using Cisco Packet Tracer.
  Documented results with screenshots  
 
 ## Screenshots
-![Network Topology](screenshot-topology.png)
+![screenshot](https://github.com/Nok98/networking-labs/blob/main/Sn%C3%ADmka%20obrazovky%202025-03-17%20204545.png)
 
 
 
