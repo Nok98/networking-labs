@@ -27,3 +27,8 @@ This project demonstrates a basic network setup using Cisco Packet Tracer. It in
 1. Download the ![pkt-file](https://github.com/Nok98/networking-labs/blob/main/.test.pkt) file from the repository.
 2. Open it in **Cisco Packet Tracer**
 
+
+
+## UPDATE 1: I added firewall 
+![screenshot](https://github.com/Nok98/networking-labs/blob/main/Sn%C3%ADmka%20obrazovky%202025-03-18%20205330.png)
+
